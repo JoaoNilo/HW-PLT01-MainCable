@@ -1,0 +1,6 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "C&K_Switch")(type "KiCad")(uri "${KIPRJMOD}/C&K_Switch.kicad_sym")(options "")(descr ""))
+  (lib (name "BMS-2S-3A")(type "KiCad")(uri "${KIPRJMOD}/BMS-2S-3A.kicad_sym")(options "")(descr ""))
+  (lib (name "MyConnectors")(type "KiCad")(uri "${KIPRJMOD}/MyConnectors.kicad_sym")(options "")(descr ""))
+)
